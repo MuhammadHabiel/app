@@ -78,7 +78,7 @@ public class Menu extends AppCompatActivity {
     }
 
     public void cari(View view) {
-        Intent intent = new Intent(this,carimap.class);
+        Intent intent = new Intent(this,MapsActivity.class);
         startActivity(intent);
     }
 }
