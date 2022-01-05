@@ -110,7 +110,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="bromo"
+                android:text="Bromo"
                 android:textSize="20dp"
                 android:textStyle="bold"
                 android:textColor="@color/black"
@@ -192,7 +192,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="bromo"
+                android:text="Bahari"
                 android:textSize="20dp"
                 android:textStyle="bold"
                 android:textColor="@color/black"
@@ -233,7 +233,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="bromo"
+                android:text="Pura"
                 android:textSize="20dp"
                 android:textStyle="bold"
                 android:textColor="@color/black"

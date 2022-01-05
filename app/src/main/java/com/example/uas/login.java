@@ -10,8 +10,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class login extends AppCompatActivity {
-    String username="unimal";
-    String Password="unimal";
+    String username="wisata";
+    String Password="wisata";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

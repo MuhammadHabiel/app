@@ -38,7 +38,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Wisata Bahari merupakan seluruh kegiatan yang bersifatrekreasi yang aktifitasnya dilakukan pada media kelautan atau bahari dan meliputi daerah pantai, pulau-pulau sekitarnya, serta kawasan lautan dalam pengertian pada permukaannya, dalamnya, ataupun pada dasarnya termasuk didalamnya taman laut."
+            android:text="Pura Taman Ayun yang terletak di Desa Mengwi, Kabupaten Badung, sekitar 18 km ke arah barat dari Denpasar. Pura ini sangat indah, sesuai dengan namanya yang berarti pura di taman yang indah. Selain indah, Pura Taman Ayun juga dinilai memiliki nilai sejarah, sehingga pada tahun 2002 Pemda Bali mengusulkan kepada UNESCO agar pura ini dimasukkan dalam World Heritage List."
             android:textSize="20dp"
             android:textStyle="bold"
             android:textColor="@color/black"
